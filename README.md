@@ -140,6 +140,3 @@ The dashboard helps identify:
 ## 👨‍💻 Author
 
 **Vikash Singh**
-
-* Expand dataset for deeper analysis
-* Build similar dashboard using Power BI
