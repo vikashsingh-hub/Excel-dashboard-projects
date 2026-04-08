@@ -125,14 +125,13 @@ The dashboard helps identify:
   * VBA automation
 
 * **dashboard_preview.png**
- <img width="1278" height="567" alt="Sales-dashboard-preview" src="https://github.com/user-attachments/assets/1c93f911-27f6-4d6a-a15c-3eb9bb6cca4a" />
-
+  Screenshot of the dashboard.
 
 ---
 
 ## 🖥 Dashboard Preview
 
-<img width="1278" height="567" alt="Sales-dashboard-preview" src="https://github.com/user-attachments/assets/81a49bed-48c4-47a0-a810-187a74bf246a" />
+<img width="1278" height="567" alt="Sales-dashboard-preview" src="https://github.com/user-attachments/assets/e3957210-e3c2-4ce7-9ff0-217dd3543dcd" />
 
 
 ---
