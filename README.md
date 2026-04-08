@@ -140,3 +140,4 @@ The dashboard helps identify:
 ## 👨‍💻 Author
 
 **Vikash Singh**
+Aspiring Data Analyst
